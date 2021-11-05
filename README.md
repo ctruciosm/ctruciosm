@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I am Assistant Professor of Quantitative Methods in the **Faculty of Business Administration and Accounting** at the **Federal University of Rio de Janeiro** - Brazil. Some things about me:
+I am Assistant Professor of Quantitative Methods in the **Faculty of Business Administration and Accounting** at the **Federal University of Rio de Janeiro** - Brazil. About myself...
 
 - I am a peruvian guy based in Brazil since 2010.
 - I hold a PhD in Statistics from University of Campinas (UNICAMP) - Brazil.
