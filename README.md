@@ -1,8 +1,8 @@
 ### Hi everyone 👋
 
-I am Assistant Professor of Quantitative Methods in the **Faculty of Business Administration and Accounting** at the **Federal University of Rio de Janeiro** - Brazil. About myself...
+I am Assistant Professor at **University of Campinas** (Department of Statistics) - Brazil. About myself...
 
-- I am a peruvian guy based in Brazil since 2010.
+- I am a peruvian based in Brazil since 2010.
 - I hold a PhD in Statistics from University of Campinas (UNICAMP) - Brazil.
 - I usually code in [R](https://cran.r-project.org), sometimes in Matlab and occasionally in Python.
 - I am curious about [Julia Lang](https://julialang.org)
